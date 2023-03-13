@@ -1,0 +1,5 @@
+vector_size: 100
+min_count: 1
+epochs: 50
+dm: 0
+window: 5

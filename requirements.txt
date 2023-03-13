@@ -1,0 +1,10 @@
+typer==0.4.1
+pandas==1.4.2
+tqdm==4.64.0
+streamlit==1.8.1
+pyyaml==6.0
+cloudpickle==2.0.0
+gensim==4.1.2
+pytest==7.1.1
+sklearn
+plotly_express
